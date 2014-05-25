@@ -28,3 +28,5 @@ AI thinking is to form new neural network coefficent based on existing NN coeffi
 
 The whole NN coeffients is the memory of the AI core.
 
+The think process is self behavior of the AI core to simulate these inputs and use them to alter its memory (both data and methods stored here).
+also the AI core use the output of itself as a direct input.(for the inputs and outputs could be the same type of data or methods)

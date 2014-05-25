@@ -11,3 +11,17 @@ learning is all about to form kinds of methods.
 And AI core is all about learning.
 
 Learning is a group behavior. the learning of one can enlight a group individuals.
+
+
+define of AI ability:
+ It can speak(type anything to the screen)
+ It can see (monitoring everything we have done with the computer)
+ It can hear (accept the information we type to AI core)
+ 
+decompose these inputs and outputs to basic elements.
+
+crosslink all these basic elements to form a Neural Network.
+
+Find out a or several sound learning process to modifies these NN link coeffient. (maybe the computation is too large while learning? it is not a problem using network computing.) 
+
+AI thinking is to form new neural network coefficent based on existing NN coefficents.

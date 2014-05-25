@@ -25,3 +25,6 @@ crosslink all these basic elements to form a Neural Network.
 Find out a or several sound learning process to modifies these NN link coeffient. (maybe the computation is too large while learning? it is not a problem using network computing.) 
 
 AI thinking is to form new neural network coefficent based on existing NN coefficents.
+
+The whole NN coeffients is the memory of the AI core.
+
